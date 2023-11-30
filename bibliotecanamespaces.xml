@@ -1,0 +1,113 @@
+<e1:biblioteca xmlns:e1="biblioteca.xml"
+    xmlns:e2="bibliotecamejorada.xml">
+<libros>
+    <e1:libro>
+        <e1:autor>
+            <e1:apellido1>Garcia</e1:apellido1>
+            <e1:apellido2>Marquez</e1:apellido2>
+            <e1:nombre>Gabriel</e1:nombre>
+            <e1:fechaNacimiento>6 de marzo de 1927,</e1:fechaNacimiento>
+        </e1:autor>
+        <e1:titulo>100 anios de Soledad</e1:titulo>
+        <e1:editorial>Sudamericana</e1:editorial>
+        <e1:fechaPublicacion>--/05/1967</e1:fechaPublicacion>
+        <e1:ISBN>978-84-9759-220-8</e1:ISBN>
+    </e1:libro>
+    <e2:libro>
+        <e2:autor>
+            <e2:apellido1>Machado</e2:apellido1>
+            <e2:apellido2>Ruiz</e2:apellido2>
+            <e2:nombre>Antonio</e2:nombre>
+            <e2:fechaNacimiento> 26 de julio de 1875</e2:fechaNacimiento>
+        </e2:autor>
+        <e2:titulo>Poesias Completas</e2:titulo>
+        <e2:editorial>Debolsillo</e2:editorial>
+        <e2:fechaPublicacion>1917, 1928, 1933 y 1936</e2:fechaPublicacion>
+        <e2:ISBN>9788467021509</e2:ISBN>
+    </e2:libro>
+    <libro>
+        <autor>
+            <apellido1>Lope de Vega</apellido1>
+            <apellido2>Carpio</apellido2>
+            <nombre>Felix</nombre>
+            <fechaNacimiento> 25 de noviembre de 1562</fechaNacimiento>
+        </autor>
+        <titulo>Fuenteovejuna</titulo>
+        <editorial>Verbum</editorial>
+        <fechaPublicacion>1617</fechaPublicacion>
+        <ISBN>9788467528572</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Allende</apellido1>
+            <apellido2>Llona</apellido2>
+            <nombre>Isabel</nombre>
+            <fechaNacimiento>2 de agosto de 1942</fechaNacimiento>
+        </autor>
+        <titulo>La Casa de los Espiritus</titulo>
+        <editorial>Agapea </editorial>
+        <fechaPublicacion>1982</fechaPublicacion>
+        <ISBN>9788483462034 </ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>De Quevedo</apellido1>
+            <apellido2>Villegas</apellido2>
+            <nombre>Francisco</nombre>
+            <fechaNacimiento>14 de septiembre de 1580</fechaNacimiento>
+        </autor>
+        <titulo>El Buscon</titulo>
+        <editorial>Octaedro</editorial>
+        <fechaPublicacion>1626</fechaPublicacion>
+        <ISBN>9788466792479</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Savaedra</apellido1>
+            <apellido2>de Cervantes</apellido2>
+            <nombre>Miguel</nombre>
+            <fechaNacimiento>29 de septiembre de 1547</fechaNacimiento>
+        </autor>
+        <titulo>don quijote de la mancha</titulo>
+        <editorial>Urbano Manini</editorial>
+        <fechaPublicacion>1605</fechaPublicacion>
+        <ISBN>9788493806125</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Shakespeare</apellido1>
+            <apellido2></apellido2>
+            <nombre>William</nombre>
+            <fechaNacimiento>abril de 1564</fechaNacimiento>
+        </autor>
+        <titulo>hamlet</titulo>
+        <editorial>Espasa</editorial>
+        <fechaPublicacion>1603</fechaPublicacion>
+        <ISBN>9788467033380</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Gogol</apellido1>
+            <apellido2></apellido2>
+            <nombre>Nikolai </nombre>
+            <fechaNacimiento>1 de abril de 1809</fechaNacimiento>
+        </autor>
+        <titulo>las almas muertas</titulo>
+        <editorial>ALIANZA </editorial>
+        <fechaPublicacion>1842</fechaPublicacion>
+        <ISBN>9788420653419</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Delibes </apellido1>
+            <apellido2>Setien</apellido2>
+            <nombre>Miguel </nombre>
+            <fechaNacimiento>17 de octubre de 1920</fechaNacimiento>
+        </autor>
+        <titulo>5 horas con mario</titulo>
+        <editorial>Destino </editorial>
+        <fechaPublicacion>1966</fechaPublicacion>
+        <ISBN>9788423342402</ISBN>
+    </libro>
+</libros>
+</e1:biblioteca>

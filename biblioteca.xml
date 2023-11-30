@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro>
+        <autor>
+            <apellido1>Garcia</apellido1>
+            <apellido2>Marquez</apellido2>
+            <nombre>Gabriel</nombre>
+            <fechaNacimiento>6 de marzo de 1927,</fechaNacimiento>
+        </autor>
+        <titulo>100 anios de Soledad</titulo>
+        <editorial>Sudamericana</editorial>
+        <fechaPublicacion>--/05/1967</fechaPublicacion>
+        <ISBN>978-84-9759-220-8</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Machado</apellido1>
+            <apellido2>Ruiz</apellido2>
+            <nombre>Antonio</nombre>
+            <fechaNacimiento> 26 de julio de 1875</fechaNacimiento>
+        </autor>
+        <titulo>Poesias Completas</titulo>
+        <editorial>Debolsillo</editorial>
+        <fechaPublicacion>1917, 1928, 1933 y 1936</fechaPublicacion>
+        <ISBN>9788467021509</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Lope de Vega</apellido1>
+            <apellido2>Carpio</apellido2>
+            <nombre>Felix</nombre>
+            <fechaNacimiento> 25 de noviembre de 1562</fechaNacimiento>
+        </autor>
+        <titulo>Fuenteovejuna</titulo>
+        <editorial>Verbum</editorial>
+        <fechaPublicacion>1617</fechaPublicacion>
+        <ISBN>9788467528572</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Allende</apellido1>
+            <apellido2>Llona</apellido2>
+            <nombre>Isabel</nombre>
+            <fechaNacimiento>2 de agosto de 1942</fechaNacimiento>
+        </autor>
+        <titulo>La Casa de los Espiritus</titulo>
+        <editorial>Agapea </editorial>
+        <fechaPublicacion>1982</fechaPublicacion>
+        <ISBN>9788483462034 </ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>De Quevedo</apellido1>
+            <apellido2>Villegas</apellido2>
+            <nombre>Francisco</nombre>
+            <fechaNacimiento>14 de septiembre de 1580</fechaNacimiento>
+        </autor>
+        <titulo>El Buscon</titulo>
+        <editorial>Octaedro</editorial>
+        <fechaPublicacion>1626</fechaPublicacion>
+        <ISBN>9788466792479</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Savaedra</apellido1>
+            <apellido2>de Cervantes</apellido2>
+            <nombre>Miguel</nombre>
+            <fechaNacimiento>29 de septiembre de 1547</fechaNacimiento>
+        </autor>
+        <titulo>don quijote de la mancha</titulo>
+        <editorial>Urbano Manini</editorial>
+        <fechaPublicacion>1605</fechaPublicacion>
+        <ISBN>9788493806125</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Shakespeare</apellido1>
+            <apellido2></apellido2>
+            <nombre>William</nombre>
+            <fechaNacimiento>abril de 1564</fechaNacimiento>
+        </autor>
+        <titulo>hamlet</titulo>
+        <editorial>Espasa</editorial>
+        <fechaPublicacion>1603</fechaPublicacion>
+        <ISBN>9788467033380</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Gogol</apellido1>
+            <apellido2></apellido2>
+            <nombre>Nikolai </nombre>
+            <fechaNacimiento>1 de abril de 1809</fechaNacimiento>
+        </autor>
+        <titulo>las almas muertas</titulo>
+        <editorial>ALIANZA </editorial>
+        <fechaPublicacion>1842</fechaPublicacion>
+        <ISBN>9788420653419</ISBN>
+    </libro>
+    <libro>
+        <autor>
+            <apellido1>Delibes </apellido1>
+            <apellido2>Setien</apellido2>
+            <nombre>Miguel </nombre>
+            <fechaNacimiento>17 de octubre de 1920</fechaNacimiento>
+        </autor>
+        <titulo>5 horas con mario</titulo>
+        <editorial>Destino </editorial>
+        <fechaPublicacion>1966</fechaPublicacion>
+        <ISBN>9788423342402</ISBN>
+    </libro>
+</libros>

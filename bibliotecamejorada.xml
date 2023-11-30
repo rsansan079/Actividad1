@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <drama>
+        <libro>
+            <autor>
+                <apellido1>García</apellido1>
+                <apellido2>Márquez</apellido2>
+                <nombre>Gabriel</nombre>
+            </autor>
+            <título>100 años de Soledad</título>
+            <editorial>Sudamericana</editorial>
+            <fechaPublicacion>--/05/1967</fechaPublicacion>
+            <ISBN>978-84-9759-220-8</ISBN>
+        </libro>
+        <libro>
+            <autor>
+                <apellido1>Shakespeare</apellido1>
+                <apellido2></apellido2>
+                <nombre>William</nombre>
+            </autor>
+            <título>hamlet</título>
+            <editorial>Espasa</editorial>
+            <fechaPublicacion>1603</fechaPublicacion>
+            <ISBN>9788467033380</ISBN>
+        </libro>
+        <libro>
+            <autor>
+                <apellido1>Gógol</apellido1>
+                <apellido2></apellido2>
+                <nombre>Nikolái </nombre>
+            </autor>
+            <título>las almas muertas</título>
+            <editorial>ALIANZA </editorial>
+            <fechaPublicacion>1842</fechaPublicacion>
+            <ISBN>9788420653419</ISBN>
+        </libro>
+        <libro>
+            <autor>
+                <apellido1>Delibes </apellido1>
+                <apellido2>Setién</apellido2>
+                <nombre>Miguel </nombre>
+            </autor>
+            <título>5 horas con mario</título>
+            <editorial>Destino </editorial>
+            <fechaPublicacion>1966</fechaPublicacion>
+            <ISBN>9788423342402</ISBN>
+        </libro>
+    </drama>
+    <lírico>
+        <libro>
+            <autor>
+                <apellido1>Machado</apellido1>
+                <apellido2>Ruíz</apellido2>
+                <nombre>Antonio</nombre>
+            </autor>
+            <título>Poesías Completas</título>
+            <editorial>Debolsillo</editorial>
+            <fechaPublicacion>1917, 1928, 1933 y 1936</fechaPublicacion>
+            <ISBN>9788467021509</ISBN>
+        </libro>
+        <libro>
+            <autor>
+                <apellido1>Savaedra</apellido1>
+                <apellido2>de Cervantes</apellido2>
+                <nombre>Miguel</nombre>
+            </autor>
+            <título>don quijote de la mancha</título>
+            <editorial>Urbano Manini</editorial>
+            <fechaPublicacion>1605</fechaPublicacion>
+            <ISBN>9788493806125</ISBN>
+        </libro>
+    </lírico>
+        <suspense>
+            <libro>
+                <autor>
+                    <apellido1>Gógol</apellido1>
+                    <apellido2></apellido2>
+                    <nombre>Nikolái </nombre>
+                </autor>
+                <título>las almas muertas</título>
+                <editorial>ALIANZA </editorial>
+                <fechaPublicacion>1842</fechaPublicacion>
+                <ISBN>9788420653419</ISBN>
+            </libro>
+            <libro>
+                <autor>
+                    <apellido1>Allende</apellido1>
+                    <apellido2>Llona</apellido2>
+                    <nombre>Isabel</nombre>
+                </autor>
+                <título>La Casa de los Espíritus</título>
+                <editorial>Agapea </editorial>
+                <fechaPublicacion>1982</fechaPublicacion>
+                <ISBN>9788483462034 </ISBN>
+            </libro>
+        </suspense>
+        <histórico>
+            <libro>
+            <autor>
+                <apellido1>Lope de Vega</apellido1>
+                <apellido2>Carpio</apellido2>
+                <nombre>Félix</nombre>
+            </autor>
+            <título>Fuenteovejuna</título>
+            <editorial>Verbum</editorial>
+            <fechaPublicacion>1617</fechaPublicacion>
+            <ISBN>9788467528572</ISBN>
+        </libro>
+            <libro>
+                <autor>
+                    <apellido1>De Quevedo</apellido1>
+                    <apellido2>Villegas</apellido2>
+                    <nombre>Francisco</nombre>
+                </autor>
+                <título>El Buscón</título>
+                <editorial>Octaedro</editorial>
+                <fechaPublicacion>1626</fechaPublicacion>
+                <ISBN>9788466792479</ISBN>
+            </libro>
+    </histórico>
+</libros> 

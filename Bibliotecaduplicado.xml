@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Motogp>
+    <pilotos>
+        <piloto>
+            <apellido1>Mir</apellido1>
+            <nombre>Joan</nombre>
+            <edad>26</edad>
+        </piloto>
+        <equipo>Repsol Honda</equipo>
+        <dorsal>36</dorsal>
+        <Campeonatos>2</Campeonatos>
+        <temporadas>8</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Quartararo</apellido1>
+            <nombre>Fabio</nombre>
+            <edad>24</edad>
+        </piloto>
+        <equipo>Monster Yamaha</equipo>
+        <dorsal>20</dorsal>
+        <Campeonatos>1</Campeonatos>
+        <temporadas>8</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Binder</apellido1>
+            <nombre>Brad</nombre>
+            <edad>28</edad>
+        </piloto>
+        <equipo>Red Bull KTM</equipo>
+        <dorsal>33</dorsal>
+        <Campeonatos>1</Campeonatos>
+        <temporadas>11</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Bagnaia</apellido1>
+            <nombre>Francesco</nombre>
+            <edad>26</edad>
+        </piloto>
+        <equipo>Ducati Lenovo</equipo>
+        <dorsal>63</dorsal>
+        <Campeonatos>2</Campeonatos>
+        <temporadas>10</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Marquez</apellido1>
+            <nombre>Marc</nombre>
+            <edad>30</edad>
+        </piloto>
+        <equipo>Repsol Honda Team</equipo>
+        <dorsal>93</dorsal>
+        <Campeonatos>8</Campeonatos>
+        <temporadas>15</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Bezzechi</apellido1>
+            <nombre>Marco</nombre>
+            <edad>24</edad>
+        </piloto>
+        <equipo>Mooney VR46</equipo>
+        <dorsal>72</dorsal>
+        <Campeonatos>0</Campeonatos>
+        <temporadas>6</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Miller</apellido1>
+            <nombre>Jack</nombre>
+            <edad>28</edad>
+        </piloto>
+        <equipo>Red Bull KTM</equipo>
+        <dorsal>43</dorsal>
+        <Campeonatos>0</Campeonatos>
+        <temporadas>11</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Zarco</apellido1>
+            <nombre>Johann</nombre>
+            <edad>33</edad>
+        </piloto>
+        <equipo>Pramac Racing</equipo>
+        <dorsal>5</dorsal>
+        <Campeonatos>2</Campeonatos>
+        <temporadas>14</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Viñales</apellido1>
+            <nombre>Maverick</nombre>
+            <edad>28</edad>
+        </piloto>
+        <equipo>Aprilia racing</equipo>
+        <dorsal>12</dorsal>
+        <Campeonatos>1</Campeonatos>
+        <temporadas>12</temporadas>
+    </pilotos>
+    <pilotos>
+        <piloto>
+            <apellido1>Rins</apellido1>
+            <nombre>Alex</nombre>
+            <edad>27</edad>
+        </piloto>
+        <equipo>LCR Castrol</equipo>
+        <dorsal>42</dorsal>
+        <Campeonatos>0</Campeonatos>
+        <temporadas>11</temporadas>
+    </pilotos>
+   
+</Motogp>
